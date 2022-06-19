@@ -15,3 +15,9 @@
 - If an alert is generated, what action is done?
 - Admin can create an action such as email/sms message/push/voice
 - Admin can have a external service trigger an action
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/174462923-f6584c79-0799-4e22-8386-2be420df899e.png" height="90%" width="90%" alt="AZ Monitor"/>
+
+<p/>
