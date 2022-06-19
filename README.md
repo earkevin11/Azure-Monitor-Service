@@ -5,6 +5,12 @@
 - Admins can also create alerts based on activity log like when a user stopped a machine or deleted a machine
 - It can also act a central solution for all your logs from the LAW
 
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/174462923-f6584c79-0799-4e22-8386-2be420df899e.png" height="90%" width="90%" alt="AZ Monitor"/>
+
+<p/>
+
 
 # Alerts can be created based on item metrics or activity log
 - Admins can add conditions based on metrics or activity log
@@ -16,8 +22,3 @@
 - Admin can create an action such as email/sms message/push/voice
 - Admin can have a external service trigger an action
 
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/104326475/174462923-f6584c79-0799-4e22-8386-2be420df899e.png" height="90%" width="90%" alt="AZ Monitor"/>
-
-<p/>
