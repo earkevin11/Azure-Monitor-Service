@@ -2,10 +2,10 @@
 
 # What is Azure Monitor Service?
 - Azure Monitor is a key resource to keep an eye on how all of your Azure resources are performing, and to trigger alerts if there are problems.
-- Security engineers uses Azure Monitor to watch over all of hte Azure resources deployed in an organization.
+- Security engineers uses Azure Monitor to watch over all of the Azure resources deployed in an organization.
 - It can be used to view metrics of their Azure resources such as CPU Usage and Disk metrics 
 - Alerts can be created based on activity log like when a user stopped a machine or deleted a machine
-- It can also act a central solution for all your logs from the LAW
+- It can also act as a central solution for all your logs from the LAW
 
 <p align="center">
   
@@ -16,11 +16,14 @@
 
 # Alerts can be created based on item metrics or activity log
 - Admins can add conditions based on metrics or activity log
-- If CPU usage goes over, it can trigger an alert
-- If a certain administrative action is performed, it can trigger an alert
+- Two fundamental data types that Azure monitor uses are Metrics and Logs.
+- If CPU usage goes over, it can trigger an alert. (Metric)
+- If an administrative action is performed, it can trigger an alert (Logs)
 
 # Action group
 - If an alert is generated, what action is done?
 - Admin can create an action such as email/sms message/push/voice
 - Admin can have a external service trigger an action
+
+
 
